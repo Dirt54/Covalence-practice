@@ -8,5 +8,22 @@ h1 {
     color: blue;
 }
 .friend p {
+   text-transform: lowercase
+}
+#btn {
+    background-color: black;
+    color: white;
+    
+    font-size: 15px;
+    width: 50px;
+    height: 25px;
+    border-radius: 25px;
+    text-align: center;
+}
+#btn > p {
+    text-align: middle;
+    vertical-align: middle;
+}
+h3 {
     text-transform: uppercase;
 }
